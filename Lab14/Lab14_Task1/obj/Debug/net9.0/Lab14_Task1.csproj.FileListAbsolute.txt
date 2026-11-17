@@ -1,0 +1,14 @@
+C:\Users\enter\source\repos\CSharpGit_Labs\Lab14\Lab14_Task1\bin\Debug\net9.0\Lab14_Task1.exe
+C:\Users\enter\source\repos\CSharpGit_Labs\Lab14\Lab14_Task1\bin\Debug\net9.0\Lab14_Task1.deps.json
+C:\Users\enter\source\repos\CSharpGit_Labs\Lab14\Lab14_Task1\bin\Debug\net9.0\Lab14_Task1.runtimeconfig.json
+C:\Users\enter\source\repos\CSharpGit_Labs\Lab14\Lab14_Task1\bin\Debug\net9.0\Lab14_Task1.dll
+C:\Users\enter\source\repos\CSharpGit_Labs\Lab14\Lab14_Task1\bin\Debug\net9.0\Lab14_Task1.pdb
+C:\Users\enter\source\repos\CSharpGit_Labs\Lab14\Lab14_Task1\obj\Debug\net9.0\Lab14_Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enter\source\repos\CSharpGit_Labs\Lab14\Lab14_Task1\obj\Debug\net9.0\Lab14_Task1.AssemblyInfoInputs.cache
+C:\Users\enter\source\repos\CSharpGit_Labs\Lab14\Lab14_Task1\obj\Debug\net9.0\Lab14_Task1.AssemblyInfo.cs
+C:\Users\enter\source\repos\CSharpGit_Labs\Lab14\Lab14_Task1\obj\Debug\net9.0\Lab14_Task1.csproj.CoreCompileInputs.cache
+C:\Users\enter\source\repos\CSharpGit_Labs\Lab14\Lab14_Task1\obj\Debug\net9.0\Lab14_Task1.dll
+C:\Users\enter\source\repos\CSharpGit_Labs\Lab14\Lab14_Task1\obj\Debug\net9.0\refint\Lab14_Task1.dll
+C:\Users\enter\source\repos\CSharpGit_Labs\Lab14\Lab14_Task1\obj\Debug\net9.0\Lab14_Task1.pdb
+C:\Users\enter\source\repos\CSharpGit_Labs\Lab14\Lab14_Task1\obj\Debug\net9.0\Lab14_Task1.genruntimeconfig.cache
+C:\Users\enter\source\repos\CSharpGit_Labs\Lab14\Lab14_Task1\obj\Debug\net9.0\ref\Lab14_Task1.dll

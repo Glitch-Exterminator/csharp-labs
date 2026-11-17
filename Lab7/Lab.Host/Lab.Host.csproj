@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+    <RootNamespace>Lab.Host</RootNamespace>
+    <ApplicationHighDpiMode>PerMonitorV2</ApplicationHighDpiMode>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Lab.Core\Lab.Core.csproj" />
+    <ProjectReference Include="..\Lab.Student\Lab.Student.csproj" />
+  </ItemGroup>
+
+  <!-- Автотесты подключаются как готовая библиотека. Если файла нет,
+       проект всё равно соберётся: панель тестов просто скажет об этом. -->
+  <ItemGroup Condition="Exists('$(MSBuildThisFileDirectory)..\libs\Lab.Tests.dll')">
+    <None Include="..\libs\Lab.Tests.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

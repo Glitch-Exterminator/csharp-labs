@@ -1,0 +1,15 @@
+C:\Users\enter\source\repos\CSharpGit_Labs\Lab17\github-quiz\bin\Debug\net8.0\GitHubQuiz.exe
+C:\Users\enter\source\repos\CSharpGit_Labs\Lab17\github-quiz\bin\Debug\net8.0\GitHubQuiz.deps.json
+C:\Users\enter\source\repos\CSharpGit_Labs\Lab17\github-quiz\bin\Debug\net8.0\GitHubQuiz.runtimeconfig.json
+C:\Users\enter\source\repos\CSharpGit_Labs\Lab17\github-quiz\bin\Debug\net8.0\GitHubQuiz.dll
+C:\Users\enter\source\repos\CSharpGit_Labs\Lab17\github-quiz\bin\Debug\net8.0\GitHubQuiz.pdb
+C:\Users\enter\source\repos\CSharpGit_Labs\Lab17\github-quiz\obj\Debug\net8.0\GitHubQuiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enter\source\repos\CSharpGit_Labs\Lab17\github-quiz\obj\Debug\net8.0\GitHubQuiz.AssemblyInfoInputs.cache
+C:\Users\enter\source\repos\CSharpGit_Labs\Lab17\github-quiz\obj\Debug\net8.0\GitHubQuiz.AssemblyInfo.cs
+C:\Users\enter\source\repos\CSharpGit_Labs\Lab17\github-quiz\obj\Debug\net8.0\GitHubQuiz.csproj.CoreCompileInputs.cache
+C:\Users\enter\source\repos\CSharpGit_Labs\Lab17\github-quiz\obj\Debug\net8.0\GitHubQuiz.sourcelink.json
+C:\Users\enter\source\repos\CSharpGit_Labs\Lab17\github-quiz\obj\Debug\net8.0\GitHubQuiz.dll
+C:\Users\enter\source\repos\CSharpGit_Labs\Lab17\github-quiz\obj\Debug\net8.0\refint\GitHubQuiz.dll
+C:\Users\enter\source\repos\CSharpGit_Labs\Lab17\github-quiz\obj\Debug\net8.0\GitHubQuiz.pdb
+C:\Users\enter\source\repos\CSharpGit_Labs\Lab17\github-quiz\obj\Debug\net8.0\GitHubQuiz.genruntimeconfig.cache
+C:\Users\enter\source\repos\CSharpGit_Labs\Lab17\github-quiz\obj\Debug\net8.0\ref\GitHubQuiz.dll

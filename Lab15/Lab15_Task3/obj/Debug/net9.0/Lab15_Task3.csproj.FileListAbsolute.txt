@@ -1,0 +1,14 @@
+C:\Users\enter\source\repos\CSharpGit_Labs\Lab15\Lab15_Task3\bin\Debug\net9.0\Lab15_Task3.exe
+C:\Users\enter\source\repos\CSharpGit_Labs\Lab15\Lab15_Task3\bin\Debug\net9.0\Lab15_Task3.deps.json
+C:\Users\enter\source\repos\CSharpGit_Labs\Lab15\Lab15_Task3\bin\Debug\net9.0\Lab15_Task3.runtimeconfig.json
+C:\Users\enter\source\repos\CSharpGit_Labs\Lab15\Lab15_Task3\bin\Debug\net9.0\Lab15_Task3.dll
+C:\Users\enter\source\repos\CSharpGit_Labs\Lab15\Lab15_Task3\bin\Debug\net9.0\Lab15_Task3.pdb
+C:\Users\enter\source\repos\CSharpGit_Labs\Lab15\Lab15_Task3\obj\Debug\net9.0\Lab15_Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enter\source\repos\CSharpGit_Labs\Lab15\Lab15_Task3\obj\Debug\net9.0\Lab15_Task3.AssemblyInfoInputs.cache
+C:\Users\enter\source\repos\CSharpGit_Labs\Lab15\Lab15_Task3\obj\Debug\net9.0\Lab15_Task3.AssemblyInfo.cs
+C:\Users\enter\source\repos\CSharpGit_Labs\Lab15\Lab15_Task3\obj\Debug\net9.0\Lab15_Task3.csproj.CoreCompileInputs.cache
+C:\Users\enter\source\repos\CSharpGit_Labs\Lab15\Lab15_Task3\obj\Debug\net9.0\Lab15_Task3.dll
+C:\Users\enter\source\repos\CSharpGit_Labs\Lab15\Lab15_Task3\obj\Debug\net9.0\refint\Lab15_Task3.dll
+C:\Users\enter\source\repos\CSharpGit_Labs\Lab15\Lab15_Task3\obj\Debug\net9.0\Lab15_Task3.pdb
+C:\Users\enter\source\repos\CSharpGit_Labs\Lab15\Lab15_Task3\obj\Debug\net9.0\Lab15_Task3.genruntimeconfig.cache
+C:\Users\enter\source\repos\CSharpGit_Labs\Lab15\Lab15_Task3\obj\Debug\net9.0\ref\Lab15_Task3.dll
